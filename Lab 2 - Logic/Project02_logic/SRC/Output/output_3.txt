@@ -1,0 +1,19 @@
+4
+-p OR r
+q
+-q OR s
+-q OR -u
+5
+-p OR s
+-p OR -u
+r
+s
+-u
+1
+p OR -u
+3
+q OR -u
+r OR -u
+s OR -u
+0
+NO
